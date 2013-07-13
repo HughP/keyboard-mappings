@@ -179,8 +179,8 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 33,
-            "shift": 123,
+            "primary": 9,
+            "shift": 9,
             "finger": 4,
             "id": 20,
             "altGr": -1,
