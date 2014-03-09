@@ -282,8 +282,8 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 103,
-            "shift": 71,
+            "primary": 100,
+            "shift": 68,
             "finger": 4,
             "id": 33,
             "altGr": -1,
@@ -378,8 +378,8 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 100,
-            "shift": 68,
+            "primary": 103,
+            "shift": 71,
             "finger": 4,
             "id": 45,
             "altGr": -1,
